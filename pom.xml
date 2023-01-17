@@ -14,7 +14,9 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>fr.utc.ida.forge.shareportfolioida.SharePortfolioIDA</exec.mainClass>
         <sonar.organization>sharedkey</sonar.organization>
+        <sonar.projectKey>Th-Denis_sharePortfolioIDA</sonar.projectKey> 
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        <sonar.java.libraries></sonar.java.libraries>
     </properties>
     <build>
         <plugins>
